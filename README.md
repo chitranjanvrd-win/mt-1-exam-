@@ -1,15 +1,15 @@
 # mt-1-exam-
 solution of exam 
-<!DOCTYPE html>
+
+
+   <!DOCTYPE html>
 <html>
 <head>
     <title>Student Marks List</title>
 </head>
 <body>
-
     <h2 align="center">Student Marks List</h2>
-
-    <table border="1" align="center" cellpadding="8" cellspacing="0">
+   <table border="1" align="center" cellpadding="8" cellspacing="0">
         <tr>
             <th>Roll No.</th>
             <th>Name</th>
